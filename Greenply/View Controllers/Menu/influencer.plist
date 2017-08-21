@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Home</string>
+		<key>image</key>
+		<string>MenuHome</string>
+		<key>Class</key>
+		<string>DashboardViewController</string>
+		<key>storyboard</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>My Profile</string>
+		<key>image</key>
+		<string>MenuMyProfile</string>
+		<key>Class</key>
+		<string>InfluencerNewViewController</string>
+		<key>storyboard</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>My Pinned</string>
+		<key>image</key>
+		<string>MenuMyPinned</string>
+		<key>Class</key>
+		<string>MyPinListController</string>
+		<key>storyboard</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Meet Expert</string>
+		<key>image</key>
+		<string>MenuMeetExpert</string>
+		<key>Class</key>
+		<string>MeetAnExpertViewController</string>
+		<key>storyboard</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Browse Ideas</string>
+		<key>image</key>
+		<string>MenuBrowseIdeas</string>
+		<key>Class</key>
+		<string>IdeaListingController</string>
+		<key>storyboard</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>About Us</string>
+		<key>image</key>
+		<string>MenuAboutUs</string>
+		<key>Class</key>
+		<string>AboutUsViewController</string>
+		<key>storyboard</key>
+		<string>Other</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>How it Works</string>
+		<key>image</key>
+		<string>MenuHowItWorks</string>
+		<key>Class</key>
+		<string>HowItsWorkViewController</string>
+		<key>storyboard</key>
+		<string>Other</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Calculate Cost</string>
+		<key>image</key>
+		<string>MenuCalculator</string>
+		<key>Class</key>
+		<string>CalculateCostViewController</string>
+		<key>storyboard</key>
+		<string>Other</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Settings</string>
+		<key>image</key>
+		<string>MenuSettings</string>
+		<key>Class</key>
+		<string>SettingViewController</string>
+		<key>storyboard</key>
+		<string>Login</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Logout</string>
+		<key>image</key>
+		<string>MenuLogout</string>
+		<key>Class</key>
+		<string>LoginViewController</string>
+		<key>storyboard</key>
+		<string>Logout</string>
+	</dict>
+</array>
+</plist>

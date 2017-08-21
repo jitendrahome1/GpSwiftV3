@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionTitle</key>
+		<string></string>
+		<key>heightOfRowiPhone</key>
+		<string>48</string>
+		<key>heightOfRowiPad</key>
+		<string>68</string>
+		<key>fieldArray</key>
+		<array>
+			<dict>
+				<key>placeholder</key>
+				<string>Name</string>
+				<key>image</key>
+				<string>InfluencerName</string>
+			</dict>
+			<dict>
+				<key>placeholder</key>
+				<string>Name</string>
+				<key>image</key>
+				<string>InfluencerName</string>
+			</dict>
+			<dict>
+				<key>placeholder</key>
+				<string>Mobile Number</string>
+				<key>image</key>
+				<string>InfluencerCall</string>
+			</dict>
+			<dict>
+				<key>placeholder</key>
+				<string>State</string>
+				<key>image</key>
+				<string>InfluencerState</string>
+			</dict>
+			<dict>
+				<key>placeholder</key>
+				<string>City</string>
+				<key>image</key>
+				<string>InfluencerLocation</string>
+			</dict>
+			<dict>
+				<key>placeholder</key>
+				<string>Location</string>
+				<key>image</key>
+				<string> influencerBirth</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Total Experience</string>
+		<key>heightOfRowiPhone</key>
+		<string>55</string>
+		<key>heightOfRowiPad</key>
+		<string>75</string>
+		<key>fieldArray</key>
+		<array>
+			<string>Year</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Work Experience Details</string>
+		<key>heightOfRowiPhone</key>
+		<string>140</string>
+		<key>heightOfRowiPad</key>
+		<string>140</string>
+		<key>fieldArray</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Training</string>
+		<key>heightOfRowiPhone</key>
+		<string>140</string>
+		<key>heightOfRowiPad</key>
+		<string>140</string>
+		<key>fieldArray</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Education</string>
+		<key>heightOfRowiPhone</key>
+		<string>140</string>
+		<key>heightOfRowiPad</key>
+		<string>140</string>
+		<key>fieldArray</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Certifications</string>
+		<key>heightOfRowiPhone</key>
+		<string>140</string>
+		<key>heightOfRowiPad</key>
+		<string>160</string>
+		<key>fieldArray</key>
+		<array>
+			<array>
+				<string>AddPictureIcon</string>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Skills</string>
+		<key>heightOfRowiPhone</key>
+		<string>150</string>
+		<key>heightOfRowiPad</key>
+		<string>200</string>
+		<key>fieldArray</key>
+		<array>
+			<string>Description</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Typical Job Cost</string>
+		<key>heightOfRowiPhone</key>
+		<string>46</string>
+		<key>heightOfRowiPad</key>
+		<string>56</string>
+		<key>fieldArray</key>
+		<array>
+			<string>Below 30,000</string>
+			<string>30,000 - 70,000</string>
+			<string>70,000 - 1,50,000</string>
+			<string>1,50,000 - 5,00,000</string>
+			<string>5,00,000 - 30,00,000</string>
+			<string>Above 30,00,000</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Areas Served</string>
+		<key>heightOfRowiPhone</key>
+		<string>55</string>
+		<key>heightOfRowiPad</key>
+		<string>75</string>
+		<key>fieldArray</key>
+		<array>
+			<string>Location</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string></string>
+		<key>heightOfRowiPhone</key>
+		<string>50</string>
+		<key>heightOfRowiPad</key>
+		<string>62</string>
+		<key>fieldArray</key>
+		<array>
+			<string>Save</string>
+		</array>
+	</dict>
+</array>
+</plist>

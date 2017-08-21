@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/API Manager/APIHandler.swift"
+            timestampString = "516090902.039263"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "589"
+            endingLineNumber = "589"
+            landmarkName = "uploadProject(_:projectName:description:projectTypeID:stypeTypeID:workTypeID:budgetTypeID:arrTags:imageData:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KCFloatingActionButton/Sources/KCFloatingActionButton.swift"
+            timestampString = "516705173.46134"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "KCFloatingActionButton"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KCFloatingActionButton.KCFloatingActionButton.init () -&gt; KCFloatingActionButton.KCFloatingActionButton"
+                  moduleName = "KCFloatingActionButton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Pods/KCFloatingActionButton/Sources/KCFloatingActionButton.swift"
+                  timestampString = "524936238.764752"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "455">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KCFloatingActionButton.KCFloatingActionButton.init (size : CoreGraphics.CGFloat) -&gt; KCFloatingActionButton.KCFloatingActionButton"
+                  moduleName = "KCFloatingActionButton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Pods/KCFloatingActionButton/Sources/KCFloatingActionButton.swift"
+                  timestampString = "524936238.767331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KCFloatingActionButton.KCFloatingActionButton.init (frame : __C.CGRect) -&gt; KCFloatingActionButton.KCFloatingActionButton"
+                  moduleName = "KCFloatingActionButton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Pods/KCFloatingActionButton/Sources/KCFloatingActionButton.swift"
+                  timestampString = "524936238.769858"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "577">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KCFloatingActionButton.KCFloatingActionButton.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;KCFloatingActionButton.KCFloatingActionButton&gt;"
+                  moduleName = "KCFloatingActionButton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Pods/KCFloatingActionButton/Sources/KCFloatingActionButton.swift"
+                  timestampString = "524936238.772461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "517">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Login &amp; Register/LoginViewController.swift"
+            timestampString = "516798125.194639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
+            landmarkName = "sign(_:didSignInFor:withError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Add Portfolio/AddPortfolioViewController.swift"
+            timestampString = "516803580.528551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/Utilities/Helper/Helper.swift"
+            timestampString = "516803783.65646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "Double"
+            landmarkType = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/API Manager/APIHandler.swift"
+            timestampString = "516803838.81184"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "verifyOTPUserRegistration(forUser:otp:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/API Manager/APIHandler.swift"
+            timestampString = "516805775.034252"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
+            landmarkName = "userDetails(forUser:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.APIHandler.(userDetails (forUser : Swift.Optional&lt;Swift.Int&gt;, success : (Swift.Optional&lt;SwiftyJSON.JSON&gt;) -&gt; (), failure : (Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/API%20Manager/APIHandler.swift"
+                  timestampString = "524936224.502763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "1498">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.APIHandler.(userDetails (forUser : Swift.Optional&lt;Swift.Int&gt;, success : (Swift.Optional&lt;SwiftyJSON.JSON&gt;) -&gt; (), failure : (Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/API%20Manager/APIHandler.swift"
+                  timestampString = "524936224.50535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "2657">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/API Manager/APIHandler.swift"
+            timestampString = "516887355.391031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "560"
+            endingLineNumber = "560"
+            landmarkName = "addIdeaPin(withIdeaID:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Project Listing/ProjectListingController.swift"
+            timestampString = "516890119.903738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "getMyPortfolioLsit(forUserID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Idea Listing/IdeasDetailsController.swift"
+            timestampString = "520852378.995801"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "455"
+            endingLineNumber = "455"
+            landmarkName = "setIdeaPinnedStatus(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/Utilities/ImagePickerController/GPImagePickerController.swift"
+            timestampString = "517315623.248404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/API Manager/APIHandler.swift"
+            timestampString = "517317117.212722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1024"
+            endingLineNumber = "1024"
+            landmarkName = "getNotifications(_:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/All Portfolio Images List/AllPortfolioImagesListViewController.swift"
+            timestampString = "517320045.77904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/NewUploadIdea/NewUploadIdeaViewController.swift"
+            timestampString = "517387523.797869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "786"
+            endingLineNumber = "786"
+            landmarkName = "ideaDetailsApiCallingWith(forIdeaId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Profile/Influencer Profile/InfluencerCertificationDetails/CertificationsCellDetails/CertificationsCellDetails.swift"
+            timestampString = "519644079.413397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "datasource"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Profile/Influencer Profile/InfluencerCertificationDetails/CertificationsCellDetails/CertificationsCellDetails.swift"
+            timestampString = "519644160.536772"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "datasource"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Idea Listing/IdeasDetailsController.swift"
+            timestampString = "520852378.995801"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "actionIdeaImageCover(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Idea Listing/IdeasDetailsController.swift"
+            timestampString = "520851868.803241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "actionProfile(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Profile/ProfileViewController.swift"
+            timestampString = "521373786.647283"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/MainContainer/TabBarViewController/TabBarViewController.swift"
+            timestampString = "521374291.794339"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "moveToViewController(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/View Controllers/Meet an Expert/MeetAnExpertViewController.swift"
+            timestampString = "521379105.419144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "influencerAllListApiCallingWithLatAndLong()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.MeetAnExpertViewController.(influencerAllListApiCallingWithLatAndLong () -&gt; ()).(closure #1)"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/View%20Controllers/Meet%20an%20Expert/MeetAnExpertViewController.swift"
+                  timestampString = "524936224.564183"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "3589">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.MeetAnExpertViewController.(influencerAllListApiCallingWithLatAndLong () -&gt; ()).(closure #1)"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/View%20Controllers/Meet%20an%20Expert/MeetAnExpertViewController.swift"
+                  timestampString = "524936224.566398"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "8063">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/Utilities/Class/Influencer.swift"
+            timestampString = "521379121.603597"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "init(withDictionary:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.Influencer.init (withDictionary : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; Greenply.Influencer"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/Utilities/Class/Influencer.swift"
+                  timestampString = "524936224.571695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Greenply.Influencer.__allocating_init (withDictionary : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; Greenply.Influencer"
+                  moduleName = "Greenply"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jitendra/Desktop/project/IndusnetProjetc/SWIFT%20Project/GreenPly%208.3%20code/Auest/5-08-2017/Greenply/Greenply/Utilities/Class/Influencer.swift"
+                  timestampString = "524936224.574042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/Utilities/Class/Influencer.swift"
+            timestampString = "521379341.300503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "init(withDictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Greenply/Utilities/Class/Influencer.swift"
+            timestampString = "521379435.20048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "init(withDictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

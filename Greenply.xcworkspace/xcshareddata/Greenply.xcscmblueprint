@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d1c40fb1-4433-5346-9310-71acb57aceec++4626",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d1c40fb1-4433-5346-9310-71acb57aceec++7500" : {
+
+    },
+    "d1c40fb1-4433-5346-9310-71acb57aceec++4626" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d1c40fb1-4433-5346-9310-71acb57aceec++7500" : 0,
+    "d1c40fb1-4433-5346-9310-71acb57aceec++4626" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "890DB824-2AD8-4367-9150-5CA59715B4AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d1c40fb1-4433-5346-9310-71acb57aceec++7500" : "CurrentCode\/",
+    "d1c40fb1-4433-5346-9310-71acb57aceec++4626" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Greenply",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Greenply\/Greenply.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.0.8.252:10001\/svn\/Greenply",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d1c40fb1-4433-5346-9310-71acb57aceec++4626"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.0.8.252:10001\/svn\/Greenply",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d1c40fb1-4433-5346-9310-71acb57aceec++7500"
+    }
+  ]
+}

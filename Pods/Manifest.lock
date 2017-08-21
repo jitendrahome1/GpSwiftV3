@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AMTagListView (1.5.0)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.22.1):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.22.1):
+    - FBSDKCoreKit
+  - GoogleSignIn (4.0.2):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.1):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.1)
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
+  - GTMOAuth2 (1.1.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.9):
+    - GTMSessionFetcher/Full (= 1.1.9)
+  - GTMSessionFetcher/Core (1.1.9)
+  - GTMSessionFetcher/Full (1.1.9):
+    - GTMSessionFetcher/Core (= 1.1.9)
+  - JTMaterialSpinner (2.0.3)
+  - KCFloatingActionButton (2.2.0)
+  - MarqueeLabel/Swift (3.0.5)
+  - SlideMenuControllerSwift (3.0.1)
+  - SwiftyJSON (3.1.4)
+  - Timberjack (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AMTagListView
+  - FBSDKLoginKit
+  - GoogleSignIn
+  - JTMaterialSpinner
+  - KCFloatingActionButton
+  - MarqueeLabel/Swift
+  - SlideMenuControllerSwift
+  - SwiftyJSON
+  - Timberjack
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AMTagListView: 08ab67466c67152f6299bc29a13a907783b0046f
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: 9c2daf0162214d6d2e21cf8208a9c6c2a2e42b9c
+  FBSDKLoginKit: 00cf28916b9f0169763a3d61985d745b579fe304
+  GoogleSignIn: d7ad83f13480e1f30453471d00d19b5293ac46af
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
+  GTMSessionFetcher: 5c046c76a1f859bc9c187e918f18e4fc7bb57b5e
+  JTMaterialSpinner: 3c4279fc0b72438c9e29712fd37cf616d20c613e
+  KCFloatingActionButton: 8c71fa25774e422c8d407f82b4b27809d0cd5233
+  MarqueeLabel: 8a25b2cf02cf52165022f01369e63536c58fcc00
+  SlideMenuControllerSwift: 9a163b16d54afab734add42858cba7ef7c307755
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Timberjack: 4181fb4fa5c0c02a0855deb5aa1ade6043db7b42
+
+PODFILE CHECKSUM: c526205ad86207ca497d92de45a59758cf23b130
+
+COCOAPODS: 1.0.1

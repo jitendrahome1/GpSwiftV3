@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CheckBoxCustomCell" rowHeight="58" id="9Cc-bo-w6J" customClass="CheckBoxCustomCell" customModule="Greenply" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="319" height="59"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="9Cc-bo-w6J" id="qEc-Dt-doj">
+                <rect key="frame" x="0.0" y="0.0" width="319" height="58"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7lb-Cc-O59">
+                        <rect key="frame" x="8" y="8" width="303" height="50"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nqo-O7-qNT">
+                                <rect key="frame" x="0.0" y="0.0" width="303" height="50"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <inset key="titleEdgeInsets" minX="16" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                <inset key="imageEdgeInsets" minX="8" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                <state key="normal" title="ButtonTile" image="CheckBoxDelSected">
+                                    <color key="titleColor" red="0.29803921570000003" green="0.6588235294" blue="0.050980392159999999" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.93725490199999995" green="0.97647058819999999" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="Nqo-O7-qNT" firstAttribute="leading" secondItem="7lb-Cc-O59" secondAttribute="leading" id="MjF-6Q-0SK"/>
+                            <constraint firstItem="Nqo-O7-qNT" firstAttribute="top" secondItem="7lb-Cc-O59" secondAttribute="top" id="T6S-Py-JNC"/>
+                            <constraint firstAttribute="bottom" secondItem="Nqo-O7-qNT" secondAttribute="bottom" id="UpI-JD-C9H"/>
+                            <constraint firstAttribute="trailing" secondItem="Nqo-O7-qNT" secondAttribute="trailing" id="al8-Ew-QLX"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <integer key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstItem="7lb-Cc-O59" firstAttribute="leading" secondItem="qEc-Dt-doj" secondAttribute="leading" constant="8" id="Wov-eP-bMV"/>
+                    <constraint firstAttribute="trailing" secondItem="7lb-Cc-O59" secondAttribute="trailing" constant="8" id="dVG-k6-SK1"/>
+                    <constraint firstAttribute="bottom" secondItem="7lb-Cc-O59" secondAttribute="bottom" id="u61-CP-f1W"/>
+                    <constraint firstItem="7lb-Cc-O59" firstAttribute="top" secondItem="qEc-Dt-doj" secondAttribute="top" constant="8" id="x3e-WW-dm1"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btnTypicalTitle" destination="Nqo-O7-qNT" id="7vO-mG-esi"/>
+            </connections>
+            <point key="canvasLocation" x="212.5" y="113.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="CheckBoxDelSected" width="21" height="21"/>
+    </resources>
+</document>
